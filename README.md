@@ -1,2 +1,3 @@
-# Plantilla-proy-C158
-MUNDO DE HISTORIETAS. ETAPA 2
+# PRO-VR-C158
+
+Proyecto para después de la clase C158
